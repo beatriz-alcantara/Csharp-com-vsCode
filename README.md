@@ -1,5 +1,7 @@
 # Csharp-com-vsCode
 
+![c# logo](imagens/c_logo.png)
+
 ## O que você precisa?
 - VSCode
 - SDK do .NET Core
