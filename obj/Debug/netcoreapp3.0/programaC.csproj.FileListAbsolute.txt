@@ -1,0 +1,11 @@
+C:\Users\beatr\Desktop\programaC\bin\Debug\netcoreapp3.0\programaC.exe
+C:\Users\beatr\Desktop\programaC\bin\Debug\netcoreapp3.0\programaC.deps.json
+C:\Users\beatr\Desktop\programaC\bin\Debug\netcoreapp3.0\programaC.runtimeconfig.json
+C:\Users\beatr\Desktop\programaC\bin\Debug\netcoreapp3.0\programaC.runtimeconfig.dev.json
+C:\Users\beatr\Desktop\programaC\bin\Debug\netcoreapp3.0\programaC.dll
+C:\Users\beatr\Desktop\programaC\bin\Debug\netcoreapp3.0\programaC.pdb
+C:\Users\beatr\Desktop\programaC\obj\Debug\netcoreapp3.0\programaC.csprojAssemblyReference.cache
+C:\Users\beatr\Desktop\programaC\obj\Debug\netcoreapp3.0\programaC.AssemblyInfoInputs.cache
+C:\Users\beatr\Desktop\programaC\obj\Debug\netcoreapp3.0\programaC.AssemblyInfo.cs
+C:\Users\beatr\Desktop\programaC\obj\Debug\netcoreapp3.0\programaC.dll
+C:\Users\beatr\Desktop\programaC\obj\Debug\netcoreapp3.0\programaC.pdb
