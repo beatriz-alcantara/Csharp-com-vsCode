@@ -8,7 +8,7 @@
 ## 1º Passo:
 
 Criar uma pasta para o projeto e mostrar ela no VSCode.
-Neste primeiro momento a pasta está vazia, então iniciamos com os comandos para começar nossa aplicação.
+Neste primeiro momento a pasta está vazia, então precisamos de alguns comandos para começar nossa aplicação.
 
 ## 2º Passo:
 
